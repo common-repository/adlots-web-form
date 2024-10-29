@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AdLots Web Form Plugin\n"
+"POT-Creation-Date: 2018-07-03 10:46+0300\n"
+"PO-Revision-Date: 2018-07-03 10:47+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: adlots_webform.php\n"
+"X-Poedit-SearchPath-1: includes/adlots_settings.php\n"
+
+#: adlots_webform.php:53
+msgid "Form id is required"
+msgstr "ID формы обязательный"
+
+#: adlots_webform.php:58
+msgid "Integrity hash is required"
+msgstr "Хеш целостности обязательный"
+
+#: adlots_webform.php:66
+msgid "Form is unavailable"
+msgstr "Форма недоступна"
+
+#: includes/adlots_settings.php:19
+msgid "URL is not valid"
+msgstr "URL не валидный"
+
+#: includes/adlots_settings.php:29 includes/adlots_settings.php:48
+msgid "Data is not valid"
+msgstr "Данные не валидные"
+
+#: includes/adlots_settings.php:45
+msgid "Settings were saved successfully"
+msgstr "Настройки сохранены успешно"
+
+#: includes/adlots_settings.php:63
+msgid "AdLots Settings"
+msgstr "Настройки AdLots"
+
+#: includes/adlots_settings.php:75
+msgid "AdLots Address (URL)"
+msgstr "AdLots адресс (URL)"
+
+#: includes/adlots_settings.php:78
+msgid "Enter your AdLots URL"
+msgstr "Введите URL адрес вашего AdLots"
+
+#: includes/adlots_settings.php:82
+msgid "Use Garlic.js library"
+msgstr "Использовать библиотеку Garlic.js "
+
+#: includes/adlots_settings.php:87 includes/adlots_settings.php:109
+#: includes/adlots_settings.php:131
+msgid "Yes"
+msgstr "Да"
+
+#: includes/adlots_settings.php:92 includes/adlots_settings.php:114
+#: includes/adlots_settings.php:136
+msgid "No"
+msgstr "Нет"
+
+#: includes/adlots_settings.php:96
+msgid ""
+"Garlic.js allows you to automatically persist your forms' text field values "
+"locally, until the form is submitted. This way, your users don't lose any "
+"precious data if they accidentally close their tab or browser."
+msgstr ""
+"Garlic.js позволяет автоматически сохранять значения текстових полей формы "
+"локально, до того момента, пока форма не будет отправлена. Таким образом, "
+"ваши пользователи не теряют драгоценные данные, если они случайно закрывают "
+"вкладку или браузер."
+
+#: includes/adlots_settings.php:104
+msgid "Use international telephone input plugin"
+msgstr "Использовать плагин международного телефонного ввода"
+
+#: includes/adlots_settings.php:118
+msgid ""
+"A jQuery plugin for entering and validating international telephone numbers. "
+"It adds a flag dropdown to any input, detects the user's country, displays a "
+"relevant placeholder and provides formatting/validation methods."
+msgstr ""
+"Плагин jQuery для ввода и проверки международных телефонных номеров. Он "
+"добавляет раскрывающийся список флагов на любые вводимые данные, определяет "
+"страну пользователя, отображает соответствующий заполнитель и предоставляет "
+"методы форматирования / валидации."
+
+#: includes/adlots_settings.php:140
+msgid ""
+"Google reCAPTCHA is a free service that protects your website from spam and "
+"abuse"
+msgstr ""
+"Google reCAPTCHA - это бесплатный сервис, который защищает ваш сайт от спама "
+"\"\n"
+"\"и злоупотреблений"
+
+#: includes/adlots_settings.php:150
+msgid "Save"
+msgstr "Сохранить"
